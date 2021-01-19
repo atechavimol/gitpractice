@@ -1,6 +1,4 @@
 One
 two
-three
-four 
-five
-sixe seven
+ready?
+Go!
